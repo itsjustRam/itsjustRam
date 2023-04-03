@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter , React JS**
 
-- 🤝 I’m looking for help with **tkinter package in python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/itsjustRam](https://github.com/itsjustRam)
 
 - 📫 How to reach me **ramprashanth259@gmail.com**

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating a REST API**
 
-- 🌱 I’m currently learning **Flutter , React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsjustRam](https://github.com/itsjustRam)
 
